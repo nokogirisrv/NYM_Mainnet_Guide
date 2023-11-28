@@ -1,4 +1,4 @@
-# Nym Mainnet Guide
+# Nym Validator Guide
 
 This guide is intended for Nym Mainnet.
 **IMPORTANT: ALWAYS BACK UP KEY FILES FROM THE FOLDER ~/.nym/mixnodes/<your_id>/data – 4 files with .pem extension! Also, save the mnemonic phrase from your wallet. This is the only way to recover your data.**
@@ -44,7 +44,7 @@ If all went well, your node will appear in the NG Mixnet Explorer.
 
 ## Delegation
 To delegate, open the wallet and select Delegate. Don't forget to leave tokens for the fee.
-- Identity key: Mixnode identity key (Nodes.Guru mixnode 8D5QgyAGqCgChDCxMqQKZpYPNb8hpDNQS43eBJUWagnW)
+- Identity key: Mixnode identity key
 - Amount to delegate: Number of tokens to delegate
 Press DELEGATE STAKE.
 
